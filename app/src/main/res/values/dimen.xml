@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="recyclerView_height">100dp</dimen>
+    <dimen name="recyclerView_baseWidth">20dp</dimen>
+</resources>
